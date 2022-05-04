@@ -1,4 +1,4 @@
 # BECL Bochum English Countability Lexicon
 
 Whenever you use it, please cite BECL as following:
-Kiss, Tibor; Pelletier, F. Jeffry; Husic, Halima; Poppek, Johanna Marie; Simunic, R. Nino (2016) A Sense-Based Lexicon for Count and Mass Expressions: The Bochum English Countability Lexicon. In: Proceedings of LREC 2016. Portoroz, Slowenia.
+Kiss, T., Pelletier, F.J., Husic, H., Poppek, J.M. & Simunic, R.N. (2016). A Sense based Lexicon of Count and Mass Expressions: The Bochum English Countability Lexicon. Proceedings of the Tenth International Conference on Language Resources and Evaluation, 2810–2814.
